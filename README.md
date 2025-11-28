@@ -15,14 +15,17 @@ eds220-hwk4
 ├── .gitignore                              
 ├── README.md                               # Project overview and instruction                  
 ├── hwk4-task2-false-color-SCHER.ipynb      # Jupyter notebook for false-color analysis
-
+```
 ## References
 
 Data:
-_Fire Perimeter Data_
+
+_Fire Perimeter Data_:
+
 [1] Palisades and Eaton Dissolved Fire Perimeters (2025). (2025). Arcgis.com. https://egis-lacounty.hub.arcgis.com/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about
 
-_Landsat 08 geospatial data_
+_Landsat 08 geospatial data_:
+
 ‌[2] Microsoft Planetary Computer. (2025). Microsoft.com. https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2
 
 Background information and Landsat band combinations: 
