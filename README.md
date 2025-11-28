@@ -1,5 +1,6 @@
 # Los Angeles Wildfire false color mapping
 ### EDS 220: Working with Environmental Datasets: Homework 4
+### Lucian Scher - 11/25/25
 
 ## About
 This notebook containst the 4th assignment for EDS 220, a course in the MEDS program. This project explores the impacts of the 2025 Eaton and Palisades Fires using remote sensing data. After data cleaning and exploration we create a true color and false color image of the two fires with boundaries for the affected area in order to visualize the impact and scale of wildfires on the Los Angeles Area. 
